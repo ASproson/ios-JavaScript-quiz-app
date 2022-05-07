@@ -40,7 +40,7 @@
 		6FC0BD662820524500CF162E /* JavaScriptQuizAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JavaScriptQuizAppApp.swift; sourceTree = "<group>"; };
 		6FC0BD672820524500CF162E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6FC0BD682820524700CF162E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		6FC0BD6D2820524700CF162E /* JavaScriptQuizApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JavaScriptQuizApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6FC0BD6D2820524700CF162E /* JavaScript Quiz App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "JavaScript Quiz App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6FC0BD732820524700CF162E /* JavaScriptQuizApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JavaScriptQuizApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6FC0BD752820524700CF162E /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
 		6FC0BD7A2820524700CF162E /* Tests iOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests iOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -107,7 +107,7 @@
 		6FC0BD6E2820524700CF162E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6FC0BD6D2820524700CF162E /* JavaScriptQuizApp.app */,
+				6FC0BD6D2820524700CF162E /* JavaScript Quiz App.app */,
 				6FC0BD732820524700CF162E /* JavaScriptQuizApp.app */,
 				6FC0BD7A2820524700CF162E /* Tests iOS.xctest */,
 				6FC0BD862820524700CF162E /* Tests macOS.xctest */,
@@ -158,7 +158,7 @@
 			);
 			name = "JavaScriptQuizApp (iOS)";
 			productName = "JavaScriptQuizApp (iOS)";
-			productReference = 6FC0BD6D2820524700CF162E /* JavaScriptQuizApp.app */;
+			productReference = 6FC0BD6D2820524700CF162E /* JavaScript Quiz App.app */;
 			productType = "com.apple.product-type.application";
 		};
 		6FC0BD722820524700CF162E /* JavaScriptQuizApp (macOS) */ = {
@@ -477,7 +477,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.atlas.JavaScriptQuizApp;
-				PRODUCT_NAME = JavaScriptQuizApp;
+				PRODUCT_NAME = "JavaScript Quiz App";
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -506,7 +506,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.atlas.JavaScriptQuizApp;
-				PRODUCT_NAME = JavaScriptQuizApp;
+				PRODUCT_NAME = "JavaScript Quiz App";
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
