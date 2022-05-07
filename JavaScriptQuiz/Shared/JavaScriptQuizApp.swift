@@ -1,14 +1,14 @@
 //
-//  JavaScriptQuizAppApp.swift
+//  JavaScriptQuizApp.swift
 //  Shared
 //
-//  Created by atlas on 02/05/2022.
+//  Created by atlas on 07/05/2022.
 //
 
 import SwiftUI
 
 @main
-struct JavaScriptQuizAppApp: App {
+struct JavaScriptQuizApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

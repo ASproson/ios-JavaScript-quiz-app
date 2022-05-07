@@ -2,17 +2,16 @@
 //  ContentView.swift
 //  Shared
 //
-//  Created by atlas on 02/05/2022.
+//  Created by atlas on 07/05/2022.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, World!")
+        Text("Hello, world!")
+            .foregroundColor(.blue)
             .padding()
-            .foregroundColor(Color.blue)
-        
     }
 }
 
